@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>pvt.ws</groupId>
-	<artifactId>ws</artifactId>
+	<artifactId>WebSocketSvc</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>WebSocket</name>
 	<description>Web Socket for Spring Boot</description>
